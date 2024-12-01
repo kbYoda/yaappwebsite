@@ -1,0 +1,25 @@
+yaapp-website/
+│
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+│
+├── src/
+│   ├── components/
+│   │   ├── Navbar.js
+│   │   ├── Footer.js
+│   │
+│   ├── pages/
+│   │   ├── Home.js
+│   │   ├── Features.js
+│   │   ├── Pricing.js
+│   │   ├── About.js
+│   │   ├── Contact.js
+│   │   ├── SignIn.js
+│   │
+│   ├── App.js
+│   ├── index.js
+│   ├── App.css
+│
+├── package.json
+└── README.md
